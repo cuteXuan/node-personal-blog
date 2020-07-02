@@ -1,3 +1,3 @@
 module.exports = {
-    dbs: 'mongodb://47.93.238.152/:27017/blog'
+    dbs: 'mongodb://127.0.0.1:27017/blog'
 }

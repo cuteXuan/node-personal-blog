@@ -14,7 +14,7 @@ const userModel = new Schema({
         type: String
     },
     // admin ,editor
-    role: {
+    roles: {
         type: Array,
         default: ['visitor']
     },

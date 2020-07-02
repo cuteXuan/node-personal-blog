@@ -47,12 +47,9 @@ router.post('/register',function (req,res,next) {
 router.get('/getInfo',async function (req,res,next) {
     const decode = decoded(req)
     if (decode && decode.username)  {
-        console.log(decode.username)
         const user = await queryByAccount(decode.username)
-        console.log(user)
         if (user) {
             delete user.password
-            user.roles = [user.role]
             new Result(user, '获取信息成功').success(res)
         } else {
             new Result(null,'用户信息解析失败').fail(res)
