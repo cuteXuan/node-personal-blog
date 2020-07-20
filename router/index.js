@@ -8,6 +8,7 @@ const recommendRouter = require('./recommend')
 const linksRouter = require('./links')
 const versionRouter = require('./version')
 const carouselRouter = require('./carousel')
+const commentRouter = require('./comment')
 
 const jwtAuth = require('./jwt')
 // 注册路由
@@ -25,6 +26,7 @@ router.use('/recommend',recommendRouter)
 router.use('/links',linksRouter)
 router.use('/version',versionRouter)
 router.use('/carousel',carouselRouter)
+router.use('/comment',commentRouter)
 
 // 自定义路由异常处理的中间件
 router.use((err,req,res,next) => {

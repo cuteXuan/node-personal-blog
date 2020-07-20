@@ -1,4 +1,4 @@
-const env = 'prop'
+const env = 'dev'
 module.exports = {
     env
 }
