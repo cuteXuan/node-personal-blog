@@ -11,7 +11,7 @@ const app = express()
 mongoose.connect(dbConfig.dbs,{
     useNewUrlParser:true
 })
-// 处理跨域
+//git  处理跨域
 app.use(cors())
 
 // 处理 body 请求
