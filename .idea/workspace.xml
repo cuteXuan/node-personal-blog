@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="4106febf-dc33-4e71-9ecd-24d1f5d54e51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="4106febf-dc33-4e71-9ecd-24d1f5d54e51" name="Default Changelist" comment="" />
+>>>>>>> dev
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,20 +19,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils/env.js">
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+>>>>>>> dev
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="561">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils/code.js">
+        <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="429">
+              <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -75,7 +84,6 @@
         <option value="$PROJECT_DIR$/utils/Result.js" />
         <option value="$PROJECT_DIR$/utils/decoded.js" />
         <option value="$PROJECT_DIR$/db/Model/user.js" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/router/jwt.js" />
         <option value="$PROJECT_DIR$/db/models/label.js" />
         <option value="$PROJECT_DIR$/services/label.js" />
@@ -100,23 +108,28 @@
         <option value="$PROJECT_DIR$/db/index.js" />
         <option value="$PROJECT_DIR$/services/user.js" />
         <option value="$PROJECT_DIR$/utils/code.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/router/user.js" />
         <option value="$PROJECT_DIR$/db/models/user.js" />
         <option value="$PROJECT_DIR$/router/index.js" />
         <option value="$PROJECT_DIR$/db/models/comment.js" />
         <option value="$PROJECT_DIR$/router/comment.js" />
         <option value="$PROJECT_DIR$/services/comment.js" />
-        <option value="$PROJECT_DIR$/utils/env.js" />
         <option value="$PROJECT_DIR$/db/config.js" />
+        <option value="$PROJECT_DIR$/utils/env.js" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/db/config.js" />
+=======
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+>>>>>>> dev
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -136,12 +149,15 @@
               <item name="node-personal-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="node-personal-blog" type="462c0819:PsiDirectoryNode" />
               <item name="db" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
             </path>
             <path>
               <item name="node-personal-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="node-personal-blog" type="462c0819:PsiDirectoryNode" />
               <item name="db" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> dev
             </path>
           </expand>
           <select />
@@ -208,12 +224,21 @@
       <workItem from="1593678302267" duration="2370000" />
       <workItem from="1593768328382" duration="795000" />
       <workItem from="1594282543571" duration="9249000" />
+<<<<<<< HEAD
       <workItem from="1595239584496" duration="1121000" />
+=======
+      <workItem from="1595239584496" duration="46000" />
+      <workItem from="1596102444235" duration="2499000" />
+>>>>>>> dev
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="127823000" />
+=======
+    <option name="totallyTimeSpent" value="129335000" />
+>>>>>>> dev
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -242,7 +267,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.51029414" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.22058824" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -262,7 +287,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5926471" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22058824" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -274,13 +299,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/services.js" />
     <entry file="file://$PROJECT_DIR$/services/index.js" />
-    <entry file="file://$PROJECT_DIR$/utils/decoded.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utils/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -335,6 +353,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -346,6 +365,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+=======
+    <entry file="file://$PROJECT_DIR$/db/models/recommend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+>>>>>>> dev
         </state>
       </provider>
     </entry>
@@ -526,6 +551,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/utils/env.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -540,10 +566,30 @@
         </state>
       </provider>
     </entry>
+=======
+    <entry file="file://$PROJECT_DIR$/utils/decoded.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
+>>>>>>> dev
     <entry file="file://$PROJECT_DIR$/utils/code.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="165">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+<<<<<<< HEAD
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+=======
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -551,6 +597,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+>>>>>>> dev
         </state>
       </provider>
     </entry>
