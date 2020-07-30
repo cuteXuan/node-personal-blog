@@ -4,6 +4,7 @@ const bodyParser = require('body-parser')
 const cors = require('cors')
 const mongoose = require('mongoose')
 const dbConfig = require('./db/config')
+const compression = require('compression')
 
 // 创建应用
 const app = express()
@@ -11,6 +12,7 @@ const app = express()
 mongoose.connect(dbConfig.dbs,{
     useNewUrlParser:true
 })
+app.use(compression)
 // 处理跨域
 app.use(cors())
 
